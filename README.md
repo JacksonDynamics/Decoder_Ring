@@ -1,4 +1,4 @@
-# Project_Decoder_Ring_1
+# Decoder Ring
 
 
-https://jacksondynamics.github.io/Project_Decoder_Ring_1/
+jacksondynamics.github.io/Decoder_Ring/
