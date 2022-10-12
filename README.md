@@ -1,7 +1,7 @@
 # Decoder Ring
 
 
-https://jacksondynamics.github.io/Decoder_Ring/
+https://dynamicdecoderring.netlify.app/
 
 
 ## Description
